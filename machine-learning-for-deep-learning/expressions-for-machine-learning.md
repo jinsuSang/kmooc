@@ -90,7 +90,7 @@
 
     - [선형 분류기 linear classifier](https://ko.wikipedia.org/wiki/%EC%84%A0%ED%98%95_%EB%B6%84%EB%A5%98) - 선형 회귀자 같이 계산된 값을 0 혹은 1로 변경하여 카테고리 라벨을 생성
 
-      - ![y=f({\vec {w}}\cdot {\vec {x}})=f\left(\sum _{j}w_{j}x_{j}\right),](https://wikimedia.org/api/rest_v1/media/math/render/svg/4b3c233b748fa77e9132685b0574a69e92aa1899)
+      - ![{\displaystyle y=f({\vec {w}}\cdot {\vec {x}})=f\left(\sum _{j}w_{j}x_{j}\right),}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4b3c233b748fa77e9132685b0574a69e92aa1899)
 
         y: 라벨값(결과값), w: 선형 모델, x: 특징 값
 
