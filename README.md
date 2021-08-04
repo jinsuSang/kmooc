@@ -4,6 +4,7 @@
 
 | Date       | Contents                                                     |
 | ---------- | ------------------------------------------------------------ |
+| 2021.08.04 | [지도학습과 Decision Tree - Overfitting, Parameter, Hyper-Parameter](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/supervised-learning-and-decision-tree.md) |
 | 2021.07.30 | [머신러닝을 위한 표현법](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/expressions-for-machine-learning.md) |
 
 ## 데이터 과학을 위한 R 프로그래밍
