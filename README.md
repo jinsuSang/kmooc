@@ -4,6 +4,7 @@
 
 | Date       | Contents                                                     |
 | ---------- | ------------------------------------------------------------ |
+| 2021.08.14 | [Non-parametric 구분기와  Ensemble 모델](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/non-parametric-classifier-and-ensemble-model.md) |
 | 2021.08.08 | [확률적 구분기와 Naive Bayes](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/naive-bayes.md) |
 | 2021.08.04 | [지도학습과 Decision Tree - Overfitting, Parameter, Hyper-Parameter](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/supervised-learning-and-decision-tree.md) |
 | 2021.07.30 | [머신러닝을 위한 표현법](https://github.com/jinsuSang/kmooc/blob/main/machine-learning-for-deep-learning/expressions-for-machine-learning.md) |
