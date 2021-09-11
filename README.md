@@ -1,5 +1,11 @@
 # KMOOC
 
+## 컴퓨터 네트워킹
+
+| Date       | Content                                                      |
+| ---------- | ------------------------------------------------------------ |
+| 2021.09.11 | [인터넷 프로토콜, 구조, 패킷 교환](https://github.com/jinsuSang/kmooc/blob/main/computer-networking/week01-internet-protocol.md) |
+
 ## 딥러닝의 깊이 있는 이해를 위한 머신러닝
 
 | Date       | Contents                                                     |
