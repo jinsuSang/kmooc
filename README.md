@@ -1,5 +1,11 @@
 # KMOOC
 
+## 언어와 인간
+
+| Date       | Content                                                      |
+| ---------- | ------------------------------------------------------------ |
+| 2021.09.11 | [언어란 무엇인가? - 자의성, 생득성, 창조성, 화행이론](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week01-what-is-language.md) |
+
 ## 컴퓨터 네트워킹
 
 | Date       | Content                                                      |
