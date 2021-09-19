@@ -1,5 +1,11 @@
 # KMOOC
 
+## 인공지능의 기초
+
+| Date       | Content                                                      |
+| ---------- | ------------------------------------------------------------ |
+| 2021.09.19 | [인공지능 개요와 인공지능 문제해결 및 탐색 전략](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week1-and-week2.md) |
+
 ## 언어와 인간
 
 | Date       | Content                                                      |
