@@ -1,5 +1,12 @@
 # KMOOC
 
+## 언어학과 인공지능
+
+| Date       | Content                                                      |
+| ---------- | ------------------------------------------------------------ |
+| 2021.09.19 | [음성언어 처리 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week2.md) |
+| 2021.09.19 | [언어학의 기본 개념 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week1.md) |
+
 ## 인공지능의 기초
 
 | Date       | Content                                                      |
