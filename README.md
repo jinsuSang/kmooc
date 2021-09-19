@@ -17,6 +17,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.09.19 | [언어의 여러 얼굴 - 공시태, 통시태, 언어 능력, 언어 수행](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week02-many-faces-of-language.md) |
 | 2021.09.11 | [언어란 무엇인가? - 자의성, 생득성, 창조성, 화행이론](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week01-what-is-language.md) |
 
 ## 컴퓨터 네트워킹
