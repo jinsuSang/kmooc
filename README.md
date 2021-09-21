@@ -24,6 +24,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.09.21 | [OS 7계층, 전파 지연, 전송 지연, 처리량](https://github.com/jinsuSang/kmooc/blob/main/computer-networking/week02-network-internet.md) |
 | 2021.09.11 | [인터넷 프로토콜, 구조, 패킷 교환](https://github.com/jinsuSang/kmooc/blob/main/computer-networking/week01-internet-protocol.md) |
 
 ## 딥러닝의 깊이 있는 이해를 위한 머신러닝
