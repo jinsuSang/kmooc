@@ -4,6 +4,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.09.25 | [딥러닝 시대의 음성언어처리 연구](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week3.md) |
 | 2021.09.19 | [음성언어 처리 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week2.md) |
 | 2021.09.19 | [언어학의 기본 개념 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week1.md) |
 
