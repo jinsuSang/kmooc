@@ -12,6 +12,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.01 | [휴리스틱 탐색과 지역 탐색 Best-First Search, A* Search, Local Search](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week3.md) |
 | 2021.09.19 | [인공지능 개요와 인공지능 문제해결 및 탐색 전략](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week1-and-week2.md) |
 
 ## 언어와 인간
