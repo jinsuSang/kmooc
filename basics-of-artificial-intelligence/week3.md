@@ -34,16 +34,30 @@
 [안경잡이 개발자 블로그](https://blog.naver.com/ndb796/220578912459)
 
 - local search algorithms
+
 - 해결이 목적인 경우에 사용된다
+
 - 메모리가 적게 사용된다 
+
 - 무한 혹은 큰 공간 상태에서 최적해를 찾아낸다
+
 - n-queens 문제 
+
 - Hill-Climbing Search
   - <u>Steepest ascent</u> : at each step the current node is replaced by the best neighbor
   - <u>Greedy Local Search</u>: grabs a good neighbor state without thinking ahead about where to go next
   - 단점: 초기 상태에 의존적이며 local maximum 에 의해 global  maximum 을 찾지 못할 수도 있다
 
-- 
+- Simulated Annealing Search
+
+  - escape local maximum by allowing some bad moves but gradually decrease their frequency
+    - Hill-Climbing + random walk
+
+  - intuition with gradient descent (경사 하강 직감)
+
+    - 랜덤을 허용하는 횟수를 줄여나간다
+
+     
 
 
 
