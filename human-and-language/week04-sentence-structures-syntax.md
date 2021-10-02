@@ -1,4 +1,4 @@
-# Mental lexicon and words
+# Sentence structures Syntax
 
 ## 문장의 구조: 통사론
 

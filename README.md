@@ -19,6 +19,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.02 | [문장의 구조: 통사론 - 품사, 귀환 규칙, 어순, 변형](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week04-sentence-structures-syntax.md) |
 | 2021.09.25 | [마음 속 사전과 단어 - 접사, 파생, 중첩, 단어 경계 인지](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week03-mental-lexicon-and-words.md) |
 | 2021.09.19 | [언어의 여러 얼굴 - 공시태, 통시태, 언어 능력, 언어 수행](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week02-many-faces-of-language.md) |
 | 2021.09.11 | [언어란 무엇인가? - 자의성, 생득성, 창조성, 화행이론](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week01-what-is-language.md) |
