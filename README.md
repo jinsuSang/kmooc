@@ -4,6 +4,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.02 | [음성신호의 수학적 모델링](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week4.md) |
 | 2021.09.25 | [딥러닝 시대의 음성언어처리 연구](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week3.md) |
 | 2021.09.19 | [음성언어 처리 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week2.md) |
 | 2021.09.19 | [언어학의 기본 개념 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week1.md) |
@@ -12,6 +13,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.03 | [강화학습 마르코프 탐색 과정](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week4.md) |
 | 2021.10.01 | [휴리스틱 탐색과 지역 탐색 Best-First Search, A* Search, Local Search](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week3.md) |
 | 2021.09.19 | [인공지능 개요와 인공지능 문제해결 및 탐색 전략](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week1-and-week2.md) |
 
