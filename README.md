@@ -4,6 +4,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.10 | [인간은 어떻게 말을 하고 알아듣는가?](https://github.com/ruslanlvivsky/kmooc/blob/main/linguistics-and-ai/week5.md) |
 | 2021.10.02 | [음성신호의 수학적 모델링](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week4.md) |
 | 2021.09.25 | [딥러닝 시대의 음성언어처리 연구](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week3.md) |
 | 2021.09.19 | [음성언어 처리 소개](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week2.md) |
@@ -13,6 +14,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.10 | [마르코프 결정 과정](https://github.com/ruslanlvivsky/kmooc/blob/main/basics-of-artificial-intelligence/week5.md) |
 | 2021.10.03 | [강화학습 마르코프 탐색 과정](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week4.md) |
 | 2021.10.01 | [휴리스틱 탐색과 지역 탐색 Best-First Search, A* Search, Local Search](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week3.md) |
 | 2021.09.19 | [인공지능 개요와 인공지능 문제해결 및 탐색 전략](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week1-and-week2.md) |
@@ -21,6 +23,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.10 | [문장의 의미: 의미론 - 단어의 의미, 중의성과 애매성](https://github.com/ruslanlvivsky/kmooc/blob/main/human-and-language/week05-sentence-meaning-semantics.md) |
 | 2021.10.02 | [문장의 구조: 통사론 - 품사, 귀환 규칙, 어순, 변형](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week04-sentence-structures-syntax.md) |
 | 2021.09.25 | [마음 속 사전과 단어 - 접사, 파생, 중첩, 단어 경계 인지](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week03-mental-lexicon-and-words.md) |
 | 2021.09.19 | [언어의 여러 얼굴 - 공시태, 통시태, 언어 능력, 언어 수행](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week02-many-faces-of-language.md) |
