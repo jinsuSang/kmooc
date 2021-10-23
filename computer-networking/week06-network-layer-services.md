@@ -81,3 +81,72 @@ Switching Rate : rate at which packets can be transfer from inputs to outputs
 - Weighted Fair Queuing WFQ Scheduling
   - Generalized Round Robin
   - Each class gets weighted amount of service in each cycle 
+
+## Internet Protocol Overview
+
+### IP Fragmentation and Reassembly
+
+- Network links have MTU (max, transfer size)
+  - largest possible link - level frame
+
+- Large IP datagram divided fragmented within network
+
+  - one datagram becomes several datagrams
+
+  - reassembled only at final destination
+
+  - IP header bits used to identity, order related fragments
+
+    
+
+## *IP Addressing*
+
+### Introduction to IP Address
+
+- IP address: 32 bits identifier for host, router interface
+- interface : connection between host/router and physical link
+
+- IP address associated with each interface
+
+### IP Address Class
+
+- Class A : 0 ~ 127, host 24bits
+- Class B : 128 ~ 191, host 16 bits
+- Class C : 192 ~ 223, host 8bits
+
+### subnets
+
+- a logical subdivision of an IP network
+- why?
+  - Datagram forwarding performed by routers
+  - Hosts in a same network can reach each other without intervening router
+  - Too many hosts in a network increase maintenance overhead
+  - Divide and Conquer
+
+### subnet mask
+
+- indicating the bits that will be used as the network number
+
+### ***Classless inter-domain routing CIDR***
+
+- supernetting
+
+- Address format : a.b.c.d/x where x is # bits in network portion of address
+
+  
+
+## Datagram Forwarding
+
+### IP Network = Datagram Network
+
+- No call setup at network layer
+- Routers: no state about end-to-end connections
+
+#### Datagram forwarding
+
+- destination-based forwarding
+- generalized forwarding : forward based on any set of header field values SDN
+
+### Longest Prefix Matching
+
+- when looking for forwarding table entry for given destination address, use longest address prefix that matches destination address
