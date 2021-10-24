@@ -23,6 +23,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.24 | [맥락과 의미: 화용론 - 가리킴, 격률과 함축, 정보 구조, 전제](https://github.com/sangjinsu/kmooc/blob/main/human-and-language/week06-meanings-in-context-pregmatics.md) |
 | 2021.10.10 | [문장의 의미: 의미론 - 단어의 의미, 중의성과 애매성](https://github.com/ruslanlvivsky/kmooc/blob/main/human-and-language/week05-sentence-meaning-semantics.md) |
 | 2021.10.02 | [문장의 구조: 통사론 - 품사, 귀환 규칙, 어순, 변형](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week04-sentence-structures-syntax.md) |
 | 2021.09.25 | [마음 속 사전과 단어 - 접사, 파생, 중첩, 단어 경계 인지](https://github.com/jinsuSang/kmooc/blob/main/human-and-language/week03-mental-lexicon-and-words.md) |
