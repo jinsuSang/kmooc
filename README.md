@@ -33,6 +33,8 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.24 | [IPv6, Routing Algorithm](https://github.com/sangjinsu/kmooc/blob/main/computer-networking/week07-efficient-use-of-ip-addressing-routing.md) |
+| 2021.10.23 | [Network Layer Services, IP addressing](https://github.com/sangjinsu/kmooc/blob/main/computer-networking/week06-network-layer-services.md) |
 | 2021.10.21 | [Congestion Control, TCP connection-oriented](https://github.com/ruslanlvivsky/kmooc/blob/main/computer-networking/week05-transmission-control-protocol.md) |
 | 2021.10.19 | [Transport Layer Services, UDP, TCP, Pileplined Protocols](https://github.com/ruslanlvivsky/kmooc/blob/main/computer-networking/week04-transport-layer-services.md) |
 | 2021.10.03 | [네트워크 애플리케이션 HTTP SSL DNS CDNS](https://github.com/jinsuSang/kmooc/blob/main/computer-networking/week03-network-application.md) |
