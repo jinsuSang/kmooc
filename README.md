@@ -4,6 +4,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.24 | [패턴인식과 음성인식](https://github.com/ruslanlvivsky/kmooc/blob/main/linguistics-and-ai/week6.md) |
 | 2021.10.10 | [인간은 어떻게 말을 하고 알아듣는가?](https://github.com/ruslanlvivsky/kmooc/blob/main/linguistics-and-ai/week5.md) |
 | 2021.10.02 | [음성신호의 수학적 모델링](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week4.md) |
 | 2021.09.25 | [딥러닝 시대의 음성언어처리 연구](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week3.md) |
