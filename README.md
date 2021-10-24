@@ -15,6 +15,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.24 | [게임 이론](https://github.com/sangjinsu/kmooc/blob/main/basics-of-artificial-intelligence/week6.md) |
 | 2021.10.10 | [마르코프 결정 과정](https://github.com/ruslanlvivsky/kmooc/blob/main/basics-of-artificial-intelligence/week5.md) |
 | 2021.10.03 | [강화학습 마르코프 탐색 과정](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week4.md) |
 | 2021.10.01 | [휴리스틱 탐색과 지역 탐색 Best-First Search, A* Search, Local Search](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week3.md) |
