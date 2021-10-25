@@ -4,6 +4,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.25 | [음성 인식은 어떻게 이루어지는가?](https://github.com/sangjinsu/kmooc/blob/main/linguistics-and-ai/week7.md) |
 | 2021.10.24 | [패턴인식과 음성인식](https://github.com/ruslanlvivsky/kmooc/blob/main/linguistics-and-ai/week6.md) |
 | 2021.10.10 | [인간은 어떻게 말을 하고 알아듣는가?](https://github.com/ruslanlvivsky/kmooc/blob/main/linguistics-and-ai/week5.md) |
 | 2021.10.02 | [음성신호의 수학적 모델링](https://github.com/jinsuSang/kmooc/blob/main/linguistics-and-ai/week4.md) |
@@ -15,6 +16,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.10.25 | [자연어 처리](https://github.com/sangjinsu/kmooc/blob/main/basics-of-artificial-intelligence/week7.md) |
 | 2021.10.24 | [게임 이론](https://github.com/sangjinsu/kmooc/blob/main/basics-of-artificial-intelligence/week6.md) |
 | 2021.10.10 | [마르코프 결정 과정](https://github.com/ruslanlvivsky/kmooc/blob/main/basics-of-artificial-intelligence/week5.md) |
 | 2021.10.03 | [강화학습 마르코프 탐색 과정](https://github.com/jinsuSang/kmooc/blob/main/basics-of-artificial-intelligence/week4.md) |
