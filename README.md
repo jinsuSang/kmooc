@@ -27,6 +27,7 @@
 
 | Date       | Content                                                      |
 | ---------- | ------------------------------------------------------------ |
+| 2021.12.05 | [언어와 사회](https://github.com/sangjinsu/kmooc/blob/main/human-and-language/week10-language-in-society.md) |
 | 2021.11.28 | [뇌와 언어능력](https://github.com/sangjinsu/kmooc/blob/main/human-and-language/week09-language-human-brain.md) |
 | 2021.11.08 | [언어 습득](https://github.com/sangjinsu/kmooc/blob/main/human-and-language/week08-language-acquistion.md) |
 | 2021.11.01 | [말소리의 구조](https://github.com/sangjinsu/kmooc/blob/main/human-and-language/week07-sound-patterns-of-language.md) |
